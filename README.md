@@ -24,4 +24,4 @@ Text Domain: twentytwenty
 
 ### Description 
 
-    A theme for displaying videos and Bloging purpuse.
+    A theme for displaying videos and Blogging purpose.
